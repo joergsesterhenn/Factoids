@@ -34,9 +34,9 @@ Specifications must state the summary of the need, its purpose, and at least one
 
 - Concrete means not abstract; it must give a realistic example of what the feature/functionality does.
 - Examples can be written as:
-  - Simple (clear and understandable) prose
-  - Numbered steps
-  - Given-When-Then
+    - Simple (clear and understandable) prose
+    - Numbered steps
+    - Given-When-Then
 
 ### RENAME Specification and Example 1
 
