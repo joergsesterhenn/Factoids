@@ -20,9 +20,9 @@ To contribute, please submit a PR (Pull Request).
 4. The binary format chosen matters a lot, as schema compatibility and evolution are paramount and hard. Dealing with old historical events is a pain.
 5. The latency introduced can't be too significant e.g. by polling on the client side. And it can't be a single instance that writes all new facts. BookKeeper might be a good solution for this second requirement.
 6. Observability and Auditability
-  - We should capture the invocation/execution context as part of an event context. And that's the easy part.
-  - The hard part is for the framework to know the structure and the meaning of this context, to provide out-of-the-box observability. We need either a standard, or some sort of description language. And both are hard.
-  - It would have to support multiple tenants and customers, user and service accounts, different authentication methods with token and session information, authorisation roles and scopes, impersonation, etc.
+    - We should capture the invocation/execution context as part of an event context. And that's the easy part.
+    - The hard part is for the framework to know the structure and the meaning of this context, to provide out-of-the-box observability. We need either a standard, or some sort of description language. And both are hard.
+    - It would have to support multiple tenants and customers, user and service accounts, different authentication methods with token and session information, authorisation roles and scopes, impersonation, etc.
 
 ### [Flavius Aspra](https://www.linkedin.com/in/flavius-a-0b9136b4/)
 
