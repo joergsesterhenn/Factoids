@@ -10,6 +10,6 @@ fac·​toid ˈfak-ˌtȯid
 
 ## Statement
 
-What the industry needs is an open-source high-performance Facts Record Jounal with client interfaces that are not language specific. Yes, it would support hashtag#EventSourcing, and you could call it an hashtag#EventStore, but that's too limiting.
+What the industry needs is an open-source high-performance Facts Record Journal with client interfaces that are not language specific. Yes, it would support hashtag#EventSourcing, and you could call it an hashtag#EventStore, but that's too limiting.
 
 See document [confluence](./confluence.md)
